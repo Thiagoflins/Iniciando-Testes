@@ -1,0 +1,15 @@
+{
+  "name": "atividade-aldo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js",
+    "start": "node Index.js"
+  },
+  "author": "tf",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
